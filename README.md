@@ -73,8 +73,8 @@ Disarankan menggunakan Python 3.10 atau lebih baru.
 ### 1. Clone atau ekstrak proyek
 
 ```bash
-git clone https://github.com/AddienZakia/tubes-plm.git
-cd tubes-plm
+git clone https://github.com/aisyaasfr/fuzzy-clustering.git
+cd fuzzy-clustering
 ```
 
 Jika menggunakan ZIP, ekstrak terlebih dahulu lalu buka terminal pada folder yang berisi `requirements.txt`.
